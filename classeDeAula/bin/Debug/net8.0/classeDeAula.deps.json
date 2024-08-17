@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "classeDeAula/1.0.0": {
+        "dependencies": {
+          "pasteMain": "1.0.0"
+        },
+        "runtime": {
+          "classeDeAula.dll": {}
+        }
+      },
+      "pasteMain/1.0.0": {
+        "runtime": {
+          "pasteMain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classeDeAula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pasteMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

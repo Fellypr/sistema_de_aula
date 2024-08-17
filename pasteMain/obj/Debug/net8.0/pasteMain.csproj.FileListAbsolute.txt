@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\bin\Debug\net8.0\pasteMain.exe
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\bin\Debug\net8.0\pasteMain.deps.json
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\bin\Debug\net8.0\pasteMain.runtimeconfig.json
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\bin\Debug\net8.0\pasteMain.dll
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\bin\Debug\net8.0\pasteMain.pdb
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.AssemblyInfo.cs
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.dll
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\refint\pasteMain.dll
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.pdb
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\pasteMain.genruntimeconfig.cache
+C:\Users\User\Documents\C#\sistema_de_escola\pasteMain\obj\Debug\net8.0\ref\pasteMain.dll
